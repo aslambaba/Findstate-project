@@ -1,5 +1,5 @@
 ### Deploy on Surge !!
-- aslambaba-findstate-project.surge.sh
+- aslambaba-findstate-project.netlify.app
 
 ### Using Languages
 - HTML5
