@@ -1,4 +1,4 @@
-### Deploy on Surge !!
+### Deploy on Netlify !!
 - aslambaba-findstate-project.netlify.app
 
 ### Using Languages
